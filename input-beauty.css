@@ -40,4 +40,5 @@ html{
     left: 10px;
     padding:10px;
     background-color: white;
+    transition: all 0.25s linear;
 }
