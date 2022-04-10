@@ -94,7 +94,7 @@ body{
     color: darkgray;
     font-size: 10px;
 }
-@media screen and (max-width:400px){
+@media screen and (max-width:500px){
     .cards{
         grid-template-columns : 100%;
         grid-row-gap: 20px;
