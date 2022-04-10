@@ -115,12 +115,17 @@ body{
     -webkit-background-clip: text;
     background-clip: text;
     color:transparent;
-    
+
     background-size: 400%;
     animation:bg-animation 10s infinite alternate;
 }
+.choose{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
 .animation-hover{
-    margin-left: 15px;
+    margin: 0 15px;
     display: inline-block;
     color:white;
     font-size:18px;
